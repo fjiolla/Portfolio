@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.center{
+    text-align: center;
+    padding: 0;
+}
+
+.intro {
+    width: 50vh;
+    background-color: rgb(4, 4, 121);
+    color:white;
+    margin: 20vh 5vh 0 5vh;
+}
+
+.profile {
+    width: 90vh;
+    background-color: rgb(4, 4, 121);
+    color:white;
+    margin: 50vh 5vh 0 5vh;
+}
